@@ -501,6 +501,10 @@ nav {
   border-top: 1px solid var(--text-light);
 }
 
+.footer__bar a{
+  color: var(--primary-color);
+}
+
 @media (width > 540px) {
   .service__grid {
     grid-template-columns: repeat(2, 1fr);

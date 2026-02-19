@@ -83,3 +83,10 @@ ScrollReveal().reveal(".banner__content p", {
   ...scrollRevealOption,
   delay: 500,
 });
+
+
+
+/**
+ * Dynamic Year in footer
+ */
+document.getElementById("current-year").textContent = new Date().getFullYear();

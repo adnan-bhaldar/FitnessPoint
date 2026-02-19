@@ -3,7 +3,6 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/FitnessPoint)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/FitnessPoint?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/FitnessPoint?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar_?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
 
   <br />
   <br />
@@ -53,11 +52,3 @@ Windows:
 ```bash
 git clone https://github.com/adnan-bhaldar/FitnessPoint.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Adnan__Bhaldar).
-
-### License
-
-This project is **free to use** and does not contains any license.
